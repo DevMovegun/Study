@@ -12,7 +12,7 @@ public class Test {
 		String str3 = new String("Hello");
 		String str4 = new String("Hello");
 		System.out.println(str3 == str4); // false
-		System.out.println(str3.equals(str4)); // true
+		str3.equals(str4);
 	}
 
 }
