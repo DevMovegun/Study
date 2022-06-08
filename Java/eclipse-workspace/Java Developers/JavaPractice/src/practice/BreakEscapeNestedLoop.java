@@ -26,7 +26,7 @@ public class BreakEscapeNestedLoop {
 					System.out.println(i + ", " + j);
 				}
 			}
-		System.out.println("same continue keyword");
+		System.out.println("continue keyword is same to break keyword");
 	}
 
 }
