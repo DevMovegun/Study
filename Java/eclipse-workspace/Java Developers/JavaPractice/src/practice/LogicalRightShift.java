@@ -5,6 +5,7 @@ public class LogicalRightShift {
 		
 		int flag = 0b1011011; // 6th5th4th3rd2nd1st0th
 		
+		System.out.println();
 		System.out.print((flag >>> 6) & 1); // 6th number
 		System.out.print((flag >>> 5) & 1); // 5th number
 		System.out.print((flag >>> 4) & 1); // 4th number

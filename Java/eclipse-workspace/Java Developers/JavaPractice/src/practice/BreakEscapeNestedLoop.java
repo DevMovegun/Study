@@ -3,7 +3,7 @@ package practice;
 public class BreakEscapeNestedLoop {
 	static void breakEscape () {
 		
-		System.out.println("1. variable i, outer loop variable, sets a large number.");
+		System.out.println("\n1. variable i, outer loop variable, sets a large number.");
 		for(int i = 0; i < 10; i++) {
 			for (int j = 0; j < 10; j++) {
 				if(j == 2) {
@@ -26,7 +26,7 @@ public class BreakEscapeNestedLoop {
 					System.out.println(i + ", " + j);
 				}
 			}
-		System.out.println("continue keyword is same to break keyword");
+		System.out.println("\ncontinue keyword is same to break keyword");
 	}
 
 }

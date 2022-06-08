@@ -10,7 +10,7 @@ public class PrintArray {
 		for(int i = 0; i < arr1Dim.length; i++) {
 			arr1Dim[i] = i;
 		}
-		System.out.println("1. 1 Dimension array\n");
+		System.out.println("\n1. 1 Dimension array\n");
 		
 		// for-each문 활용
 		System.out.println("1) Use for-each statement");

@@ -27,6 +27,11 @@ public class main {
 		System.out.println("# Print Array");
 		PrintArray.printArr();
 		System.out.println();
+		
+		// 메인 메소드의 매개변수 입출력
+		System.out.println("# Print argument of main method");
+		ArgumentOfMainMethod.argumentOfMainMethod(args);
+		System.out.println();
 	}
 
 }

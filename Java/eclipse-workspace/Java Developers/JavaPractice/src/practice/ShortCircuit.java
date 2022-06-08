@@ -10,7 +10,7 @@ public class ShortCircuit {
 		//논리 연산자로 논리 연산
 		a = 3; b = 3; c = 3;
 		
-		System.out.println("1. logical operator");
+		System.out.println("\n1. logical operator");
 		System.out.println(false && ++a > 5); // false ++a 실행 안됨
 		System.out.println(true || ++b > 5); // true ++b 실행 안됨
 		System.out.println(true ^ ++c > 5); // true

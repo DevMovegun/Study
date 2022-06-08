@@ -3,6 +3,8 @@ package practice;
 public class RefDataType {
 	static void refDataType() {
 		
+		System.out.println();
+		
 		// 참조 자료형 등가 비교
 		String str1 = "HI";
 		String str2 = "HI";
