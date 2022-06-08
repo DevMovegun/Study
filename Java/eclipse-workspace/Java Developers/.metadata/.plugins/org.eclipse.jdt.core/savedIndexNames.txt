@@ -1,6 +1,0 @@
-INDEX VERSION 1.131+D:\Github\DevMovegun\Study\Java\eclipse-workspace\Java Developers\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-107573622.index
-2226992936.index
-2471133858.index
-2353794671.index
