@@ -1,7 +1,7 @@
 package practice;
 
 public class RefDataType {
-	static void refDataType() {
+	public static void refDataType() {
 		
 		System.out.println();
 		

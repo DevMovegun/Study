@@ -3,7 +3,7 @@ package practice;
 import java.util.Arrays; // Use Arrays
 
 public class PrintArray {
-	static void printArr() {
+	public static void printArr() {
 		
 		// 1차원 배열 초기값 셋팅
 		int[] arr1Dim = new int[10];

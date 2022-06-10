@@ -1,7 +1,7 @@
 package practice;
 
 public class LogicalRightShift {
-	static void logRightShift() {
+	public static void logRightShift() {
 		
 		int flag = 0b1011011; // 6th5th4th3rd2nd1st0th
 		

@@ -3,7 +3,7 @@ package practice;
 import java.util.Arrays;
 
 public class MethodOfString {
-		static void methodOfString() {		
+	public static void methodOfString() {		
 			
 			System.out.println();
 			

@@ -1,7 +1,7 @@
 package practice;
 
 public class ShortCircuit {
-	static void shortCircuit () {
+	public static void shortCircuit () {
 		
 		// 쇼트 서킷 (short circuit)
 		

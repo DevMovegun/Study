@@ -1,7 +1,7 @@
 package practice;
 
 public class BreakEscapeNestedLoop {
-	static void breakEscape () {
+	public static void breakEscape () {
 		
 		System.out.println("\n1. variable i, outer loop variable, sets a large number.");
 		for(int i = 0; i < 10; i++) {
