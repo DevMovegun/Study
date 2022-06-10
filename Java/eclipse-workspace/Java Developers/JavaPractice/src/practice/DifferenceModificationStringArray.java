@@ -3,7 +3,7 @@ package practice;
 import java.util.Arrays; // Use Arrays class
 
 public class DifferenceModificationStringArray {
-	public static void diffModifyOfStringArray() {		
+	static void diffModifyOfStringArray() {		
 		
 		System.out.println("1. modify String");
 		

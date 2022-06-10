@@ -37,6 +37,11 @@ public class main {
 		System.out.println("# Differnce Modification Of String and Array");
 		DifferenceModificationStringArray.diffModifyOfStringArray();
 		System.out.println();
+		
+		// String 객체의 다양한 메소드
+		System.out.println("# Methods of String");
+		MethodOfString.methodOfString();
+		System.out.println();
 	}
 
 }

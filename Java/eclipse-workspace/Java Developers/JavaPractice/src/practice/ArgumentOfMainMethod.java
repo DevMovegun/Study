@@ -1,7 +1,7 @@
 package practice;
 
 public class ArgumentOfMainMethod {
-	public static void argumentOfMainMethod(String[] args) {	
+	static void argumentOfMainMethod(String[] args) {	
 		
 		// Main Method에 매개변수 입력 방법
 		/*
