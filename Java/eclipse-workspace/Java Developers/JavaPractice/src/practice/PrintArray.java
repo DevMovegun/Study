@@ -1,6 +1,6 @@
 package practice;
 
-import java.util.Arrays;
+import java.util.Arrays; // Use Arrays
 
 public class PrintArray {
 	static void printArr() {

@@ -32,6 +32,11 @@ public class main {
 		System.out.println("# Print argument of main method");
 		ArgumentOfMainMethod.argumentOfMainMethod(args);
 		System.out.println();
+		
+		// 배열과 String 객체를 수정했을 때 차이점
+		System.out.println("# Differnce Modification Of String and Array");
+		DifferenceModificationStringArray.diffModifyOfStringArray();
+		System.out.println();
 	}
 
 }
