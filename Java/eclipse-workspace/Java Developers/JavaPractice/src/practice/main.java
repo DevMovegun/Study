@@ -42,6 +42,11 @@ public class main {
 		System.out.println("# Methods of String");
 		MethodOfString.methodOfString();
 		System.out.println();
+		
+		// String 객체의 다양한 메소드
+		System.out.println("# Flexible Size Arugment");
+		FlexibleSizeArgument.flexSizeArgs();
+		System.out.println();
 	}
 
 }
