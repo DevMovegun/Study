@@ -58,6 +58,18 @@ public class main {
 		AccessModifierOfMember.accessModifierOfMember();
 		System.out.println();
 		
+		// 정적 필드
+		System.out.println("# Difference Static Field and Instance Field");
+		StaticField.staticField01();
+		
+		/* error syntax
+		 * StaticField.staticField02();
+		 */
+		
+		StaticField sF = new StaticField();
+		sF.staticField02();
+		System.out.println();
+		
 	}
 
 }
