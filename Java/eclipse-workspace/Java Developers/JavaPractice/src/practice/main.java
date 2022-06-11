@@ -43,9 +43,14 @@ public class main {
 		MethodOfString.methodOfString();
 		System.out.println();
 		
-		// String 객체의 다양한 메소드
+		// 가변길이 매개변수
 		System.out.println("# Flexible Size Arugment");
 		FlexibleSizeArgument.flexSizeArgs();
+		System.out.println();
+		
+		// 가변길이 매개변수
+		System.out.println("# Effect of Data Argument");
+		EffectOfDataArgument.effectOfDataArg();
 		System.out.println();
 	}
 
