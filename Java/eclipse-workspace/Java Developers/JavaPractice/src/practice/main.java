@@ -48,7 +48,7 @@ public class main {
 		FlexibleSizeArgument.flexSizeArgs();
 		System.out.println();
 		
-		// 가변길이 매개변수
+		// 기본 자료형 입력매개변수와 참조 자료형 입력매개변수의 차이
 		System.out.println("# Effect of Data Argument");
 		EffectOfDataArgument.effectOfDataArg();
 		System.out.println();

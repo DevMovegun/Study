@@ -34,15 +34,15 @@ public class EffectOfDataArgument {
 		String k = "Hello";
 		
 		arg.modifyInt(m);
-		System.out.println("This is m in effectOfDataArg() : " + m); // 5
+		System.out.println("This is m in effectOfDataArg() : " + m); // 5 => 바뀌지 않음.
 		System.out.println();
 		
-		arg.modifyArr(n);
-		System.out.println("This is n in effectOfDataArg() : " + Arrays.toString(n)); // [4, 5, 6]
+		arg.modifyArr(n); // arg.modifyArr({1, 2, 3}) => error
+		System.out.println("This is n in effectOfDataArg() : " + Arrays.toString(n)); // [4, 5, 6] => 바뀜
 		System.out.println();
 		
 		arg.modifyStr(k);
-		System.out.println("This is k in effectOfDataArg() : " + k); // Hello
+		System.out.println("This is k in effectOfDataArg() : " + k); // Hello => 바뀌지 않음.
 		
 	}
 
