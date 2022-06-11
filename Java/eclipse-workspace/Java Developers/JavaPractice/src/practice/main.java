@@ -52,6 +52,12 @@ public class main {
 		System.out.println("# Effect of Data Argument");
 		EffectOfDataArgument.effectOfDataArg();
 		System.out.println();
+		
+		// 접근지정자에 따른 사용 가능 범위
+		System.out.println("# Access Modifer Of Member");
+		AccessModifierOfMember.accessModifierOfMember();
+		System.out.println();
+		
 	}
 
 }
