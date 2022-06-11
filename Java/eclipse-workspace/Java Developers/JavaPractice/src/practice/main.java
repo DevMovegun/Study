@@ -44,7 +44,7 @@ public class main {
 		System.out.println();
 		
 		// 가변길이 매개변수
-		System.out.println("# Flexible Size Arugment");
+		System.out.println("# Flexible Size Argument");
 		FlexibleSizeArgument.flexSizeArgs();
 		System.out.println();
 		
@@ -58,7 +58,7 @@ public class main {
 		AccessModifierOfMember.accessModifierOfMember();
 		System.out.println();
 		
-		// 정적 필드
+		// 정적 필드와 인스턴스 필드의 차이점
 		System.out.println("# Difference Static Field and Instance Field");
 		StaticField.staticField01();
 		
