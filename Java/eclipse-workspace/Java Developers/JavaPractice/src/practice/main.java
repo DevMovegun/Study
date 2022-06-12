@@ -70,6 +70,10 @@ public class main {
 		sF.staticField02();
 		System.out.println();
 		
+		// 상속 관계의 클래스 간의 Up Casting & Down Casting
+		System.out.println("# Up Casting & Down Casting between Inheritance Class");
+		UpDownCastingInheritance.upDownCastingInheritance();
+		System.out.println();
 	}
 
 }

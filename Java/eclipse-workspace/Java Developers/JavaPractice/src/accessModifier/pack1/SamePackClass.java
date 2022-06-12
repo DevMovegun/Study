@@ -1,7 +1,5 @@
 package accessModifier.pack1;
 
-import accessModifier.pack1.MainClass;
-
 public class SamePackClass {
 	
 	public void print() {
