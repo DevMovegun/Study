@@ -74,6 +74,11 @@ public class main {
 		System.out.println("# Up Casting & Down Casting between Inheritance Class");
 		UpDownCastingInheritance.upDownCastingInheritance();
 		System.out.println();
+		
+		// super, super() 사용
+		System.out.println("# Use super keyword and super()");
+		SuperMethod.superMethod();
+		System.out.println();
 	}
 
 }
