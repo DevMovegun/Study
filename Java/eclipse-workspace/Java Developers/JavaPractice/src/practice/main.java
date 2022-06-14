@@ -79,6 +79,11 @@ public class main {
 		System.out.println("# Use super keyword and super()");
 		SuperMethod.superMethod();
 		System.out.println();
+		
+		// object class의 method
+		System.out.println("# Object Class Methods");
+		ObjectClass.objectClass();
+		System.out.println();
 	}
 
 }
